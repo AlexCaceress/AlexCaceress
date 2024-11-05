@@ -17,11 +17,9 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
+## Connect with me:
 
-<p align="center">
-<a href="https://github.com/AlexCaceress">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexCaceress&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexCaceress&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<p align = "center">
+
+| <a href="https://github.com/AlexCaceress/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexCaceress&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/AlexCaceress/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCaceress&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
