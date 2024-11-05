@@ -7,6 +7,11 @@
 - ⭐ Github Star ⭐ 
 - 📲 Front-end and Back-end Developer
 
+#### Languages:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
